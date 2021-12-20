@@ -1,10 +1,9 @@
 # **Marketing Analytics Teste A/B**
-
 *Portfólio Thiago Gonçalves Custódio*
 
-## **Definição do Problema**
-
 ---
+
+## **Definição do Problema**
 
 ![](testeab.png)
 
