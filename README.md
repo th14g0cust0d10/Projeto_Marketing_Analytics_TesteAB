@@ -1,11 +1,10 @@
 # **Marketing Analytics Teste A/B**
 *Portfólio Thiago Gonçalves Custódio*
+![](testeab.png)
 
 ---
 
 ## **Definição do Problema**
-
-![](testeab.png)
 
 Avaliar se alteração estratégica em página e-commerce aumentaram as vendas.
 
